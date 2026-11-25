@@ -9,7 +9,7 @@ Praktische Linux-Administration im Rahmen meiner Umschulung zur Fachinformatiker
 | `command-log.md` | Befehlsprotokoll: SSH-Einrichtung, Paketverwaltung, Dienste, Netzwerkprüfung, Dateioperationen, Webinhalte mit Apache, Dateitransfer mit scp, MariaDB-Einrichtung, Nextcloud-Installation |
 | `evidence/` | Screenshots als Nachweis der Arbeitsschritte |
 | `bash-und-regex-uebungen/` | Eigene Bash-Skripte und reguläre Ausdrücke aus den Linux-Laboren |
-| [`linux-praxis-labs/`](linux-praxis-labs/) | Linux Essentials: Notizen zu 6 Themenbereichen, Spickzettel und eigene Beispielskripte (Backup, Systeminfo, SSH-Log-Auswertung) |
+| [`linux-kommandozeile-referenz`](https://github.com/gulerzenginkisaoglu-7838/linux-kommandozeile-referenz) | Linux Essentials: Notizen zu 6 Themenbereichen, Spickzettel und eigene Beispielskripte (separates Repository) |
 
 ## Nachweise (evidence)
 
